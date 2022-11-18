@@ -9,3 +9,4 @@ By: Le Anh Phuong Tran
 - Cracking the Coding Interview - Big O example 1 and 2 page 46
   
 ## Day 2:
+- Cracking the Coding Interview - Big O example 3 page 46
