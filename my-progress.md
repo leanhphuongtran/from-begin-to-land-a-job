@@ -5,10 +5,7 @@ By: Le Anh Phuong Tran
 "If anyone ever comes here and read these lines, including myself, I don't know how far will I progress and wonder if I ever get a job and can take care of my family. I really want to do one thing that can make me proud of myself one day."
 
 ## Day 1: Algorithmic complexity / Big-O / Asymptotic analysis
-+Harvard CS50 - Asymptotic Notation: https://youtu.be/iOq5kSKqeR4
-+Cracking the Coding Interview - Big O example 1 and 2 page 46
-- George Washington
-* John Adams
-+ Thomas Jefferson
+- Harvard CS50 - Asymptotic Notation: https://youtu.be/iOq5kSKqeR4
++ Cracking the Coding Interview - Big O example 1 and 2 page 46
   
 ## Day 2:
