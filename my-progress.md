@@ -7,3 +7,5 @@ By: Le Anh Phuong Tran
 Day 1:
 Algorithmic complexity / Big-O / Asymptotic analysis
   . Harvard CS50 - Asymptotic Notation: https://youtu.be/iOq5kSKqeR4
+
+Day 2:
