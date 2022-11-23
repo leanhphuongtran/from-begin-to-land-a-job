@@ -11,4 +11,7 @@ By: Le Anh Phuong Tran
 ## Day 2:
 - Cracking the Coding Interview - Big O example 3 page 46
 - Big O Notations (general quick tutorial): https://youtu.be/V6mKVRU1evU
-- 
+
+## Day 3:
+- Cracking the Coding Interview - Big O example 4, 5 and 6 page 47, 48
+
