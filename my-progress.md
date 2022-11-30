@@ -17,6 +17,7 @@ By: Le Anh Phuong Tran
 
 ## Day 4:
 - CS50 2020 - Lecture 2 - Arrays (12 mins from start): https://youtu.be/tI_tIZFyKBw
+- Learn about Apple Compiler "Clang"
 
 ## Day 5 (11/30/22):
 - CS50 2020 - Lecture 2 - Arrays ( mins from start): https://youtu.be/tI_tIZFyKBw
