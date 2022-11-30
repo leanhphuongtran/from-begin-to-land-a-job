@@ -9,9 +9,14 @@ By: Le Anh Phuong Tran
 - Cracking the Coding Interview - Big O example 1 and 2 page 46
   
 ## Day 2:
-- Cracking the Coding Interview - Big O example 3 page 46
 - Big O Notations (general quick tutorial): https://youtu.be/V6mKVRU1evU
+- Cracking the Coding Interview - Big O example 3 page 46
 
 ## Day 3:
 - Cracking the Coding Interview - Big O example 4, 5 and 6 page 47, 48
 
+## Day 4:
+- CS50 2020 - Lecture 2 - Arrays (12 mins from start): https://youtu.be/tI_tIZFyKBw
+
+## Day 5 (11/30/22):
+- CS50 2020 - Lecture 2 - Arrays ( mins from start): https://youtu.be/tI_tIZFyKBw
