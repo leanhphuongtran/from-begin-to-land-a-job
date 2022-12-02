@@ -9,29 +9,33 @@
 
 using namespace std;
 
+
+// Function header
 float findAverage (int length, int array[]);
 
+
+// Main function
 int main (void)
 {
-
 	// User input for the number of integer variables 
 	printf( "How many integer variables you want to calculate the average: " );
 	int total;
-cin >> total;
+	cin >> total;
 	
 	// Create an array whose length = total
 	int scores [total];
 	
-// User input for integer valuables
+	// User input for integer valuables
 	for (int i = 0; i < total; i++) {
 		printf ("Enter number: ");
 		cin >> scores[i];
+	}
+
+	printf ("---> Average: %f\n", findAverage(total, scores));
 }
 
-printf ("---> Average: %f\n", findAverage(total, scores));
-	
-}
 
+// findAverage function to find the average number
 float findAverage (int length, int array[]) {
 	int sum = 0;
 	for (int i = 0; i < length; i++) {
