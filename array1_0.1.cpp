@@ -12,8 +12,8 @@ using namespace std;
 int main (void)
 {
 	int total = 0;
-int count = 0;	
-int number;
+	int count = 0;	
+	int number;
 
 	printf( "How many integer variables you want to calculate the average: " );
 	cin >> count;
