@@ -21,11 +21,12 @@ By: Le Anh Phuong Tran
 
 ## Day 5 (11/30/22):
 - CS50 2020 - Lecture 2 - Arrays ( mins from start): https://youtu.be/tI_tIZFyKBw
+- Find average number project: array1_0.1.cpp and array1_0.2.cpp
 
 ## Day 6 (12/01/22):
 - 1st LeetCode problem in 33 mins: https://leetcode.com/problems/two-sum/ (in this list: https://leetcode.com/problem-list/top-100-liked-questions/)
 - Python for Beginners – Full Course by http://freeCodeCamp.org (watch for 30 mins): https://youtu.be/eWRfhZUzrAc
-- Rock,Paper,ScissorsIntroProject.py
+- Rock,Paper,ScissorsIntroProject.py: https://github.com/leanhphuongtran/from-begining-to-landing-a-job/blob/fc31bb8da295163334ca02b46950905d997bb3df/python-projects/Rock,Paper,ScissorsIntroProject.py
 
 ## Day 7 (12/02/22)
 - Python for Beginners – Full Course [Programming Tutorial] (watch for 1 hour): https://youtu.be/eWRfhZUzrAc
