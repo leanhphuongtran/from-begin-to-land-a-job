@@ -30,4 +30,5 @@ By: Le Anh Phuong Tran
 
 ## Day 7 (12/02/22) Python
 - Python for Beginners – Full Course [Programming Tutorial] (watch for 1 hour): https://youtu.be/eWRfhZUzrAc
-- 
+
+
