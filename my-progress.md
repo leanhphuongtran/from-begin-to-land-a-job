@@ -31,4 +31,10 @@ By: Le Anh Phuong Tran
 ## Day 7 (12/02/22) Python
 - Python for Beginners – Full Course [Programming Tutorial] (watch for 1 hour): https://youtu.be/eWRfhZUzrAc
 
+## Day 8 (12/07/22) Python
+- Python for Beginners – Full Course [Programming Tutorial] (watch for 1 hour): https://youtu.be/eWRfhZUzrAc
+
+## Day 8 (12/09/22) Python
+- Python for Beginners – Full Course [Programming Tutorial] (watch for 0.5 hour): https://youtu.be/eWRfhZUzrAc
+
 
