@@ -27,10 +27,3 @@ https://youtu.be/DkoUdFMxlv0
 https://youtu.be/NPVFYDcixcI
 
 https://youtu.be/Yfwlj0gba_k
-
-
-Con chao co ^^
-
-Con kinh chuc co chu va ca nha mot mua Giang Sinh an lanh, hanh phuc ^^ luon khoe manh, vui ve va cong viec duoc nhu y, may man, thuan loi ^^
-
-Merry Christmas co ^^
