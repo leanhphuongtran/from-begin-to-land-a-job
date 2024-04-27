@@ -28,13 +28,14 @@ By: Le Anh Phuong Tran
 - Python for Beginners – Full Course by http://freeCodeCamp.org (watch for 30 mins): https://youtu.be/eWRfhZUzrAc
 - Rock,Paper,ScissorsIntroProject.py: https://github.com/leanhphuongtran/from-begining-to-landing-a-job/blob/fc31bb8da295163334ca02b46950905d997bb3df/python-projects/Rock,Paper,ScissorsIntroProject.py
 
-## Day 7 (12/02/22) Python
+## Day 7 (12/02/22): Python
 - Python for Beginners – Full Course [Programming Tutorial] (watch for 1 hour): https://youtu.be/eWRfhZUzrAc
 
-## Day 8 (12/07/22) Python
+## Day 8 (12/07/22): Python
 - Python for Beginners – Full Course [Programming Tutorial] (watch for 1 hour): https://youtu.be/eWRfhZUzrAc
 
-## Day 8 (12/09/22) Python
+## Day 8 (12/09/22): Python
 - Python for Beginners – Full Course [Programming Tutorial] (watch for 0.5 hour): https://youtu.be/eWRfhZUzrAc
 
-
+## Day 9 (04/26/24): HTML & CSS
+- HTML & CSS: replicate Google homepage https://youtu.be/70T2GMDKl6M?si=nwziSQPX38VbU8V-
